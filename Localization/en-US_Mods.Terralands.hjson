@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	AssSword: {
+		DisplayName: Ass Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	AssembledWeapon: {
+		DisplayName: Assembled Weapon
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	AssembledWeaponProjectile.DisplayName: Assembled Weapon Projectile
+	AssembledWeaponHeldProjectile.DisplayName: Assembled Weapon Held Projectile
+}
